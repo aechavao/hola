@@ -7,6 +7,8 @@ namespace hola
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            //@aetxabao
+            Console.WriteLine("Ni aetxabao naiz!");
         }
     }
 }
